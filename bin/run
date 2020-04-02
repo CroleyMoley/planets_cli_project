@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/planets_cli'
+
+
+PlanetsCli::CLI.new.start
